@@ -136,6 +136,12 @@ main {
 
 /* What I Do Styles */
 
+.what-i-do .section-desc {
+	padding: 0 130px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
 .skills-container {
 	display: flex;
 	gap: 24px;
